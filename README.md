@@ -1,11 +1,11 @@
-# Autoregressive + 자소제한 후처리 기법을 적용한 한국어 발음 변환기
+# 자소제한 후처리 기법을 이용한 한국어 발음 변환
 
 ### 실행하기전에...
 
 1. 아래의 경로에서 Data를 다운로드 해주세요.
 
 ```
-http://pnuailab.synology.me:5000/sharing/6rODTbkPn
+KT 데이터 비공개
 ```
 
 1-2. 필요하시다면 아래의 경로에서 Model을 다운로드 해주세요.
@@ -13,7 +13,7 @@ http://pnuailab.synology.me:5000/sharing/6rODTbkPn
 &nbsp;&nbsp;&nbsp;&nbsp; - 다운로드 후 test_model에서 압축을 해제하시면 됩니다.
 
 ```
-http://pnuailab.synology.me:5000/sharing/xORFD1flZ
+...
 ```
 
 2. 실행에 필요한 requirements를 설치해주세요.
